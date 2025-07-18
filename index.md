@@ -35,7 +35,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 
+
 After last week I was able to finish building my full project and finish wiring as well. I also changed the base for the arduino and wiring to fit the 9 volt battery power supply. 
+
 # First Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4CfUOkUoq8?si=UBNTZKnVf3MclWs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
