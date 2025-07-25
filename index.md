@@ -14,8 +14,8 @@ The Robotic arm is three jointed with 4 servos attached one for each different m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u6Igeg511Dw?si=elcVBavjxIRtu_eb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-I finished the enitre project from my last milestone. Finally finishing up the coding as well as finishing up the wiring as well. 
-After Blue Stamp I wish I could learn even more about electrical engineering as well as computer science. 
+I finished the enitre project from my last milestone. I finished the coding in the arduino with help from my instructor Josh.  
+For after Blue Stamp I wish I could learn even more about electrical engineering as well as computer science because I belive I found an passion in futher pursuing my goals of mechanical and electrical engineering.  
 
 
 
@@ -146,5 +146,5 @@ void loop() {
 | 9v batteries | Powers arm and microcontroller | $12 | <a href="https://www.amazon.com/dp/B00MH4QM1S/ref=vp_d_pb_TIER4_cml_lp_B0BJ26CHZB_pd?_encoding=UTF8&pf_rd_p=b8d9960f-63a9-4d69-a8de-de9514a27e41&pf_rd_r=1RRARBM9YNNHR89D8B2N&pd_rd_wg=FwKYY&pd_rd_i=B00MH4QM1S&pd_rd_w=XrNnI&content-id=amzn1.sym.b8d9960f-63a9-4d69-a8de-de9514a27e41&pd_rd_r=edb0610d-b8f5-4671-814f-f6cb22938f22&th=1"> Link </a> |
 
 # Other resources for lesson guide
-<a href=https://github.com/Cokoino/CKK0006/tree/master> Arm Github lesson guide </a> 
+<a href="https://github.com/Cokoino/CKK0006/tree/master"> Arm Github lesson guide </a> 
 
