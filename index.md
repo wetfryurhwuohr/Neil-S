@@ -7,7 +7,7 @@ The Robotic arm is three jointed with 4 servos attached one for each different m
 | Neil S | Ridge High School | Electrical Engineering/Mechanical Engineering | Incoming Freshman
 
 
-![Headstone Image](logo.svg)
+![Headstone Image](picarm.png)
   
 # Final Milestone
 
