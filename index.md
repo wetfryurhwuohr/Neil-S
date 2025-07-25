@@ -45,7 +45,7 @@ After last week I was able to finish building my full project and finish wiring 
 My project is the robotic arm and the way I have been planing out the project is to split it up into three seperate portions for each week. 1st week is for building the project and the 2nd is for wiring and finsihing up building and finally for the third week is for coding and if time permits modifications as well. 
 
 # Schematics 
-https://cdn.discordapp.com/attachments/1391553011389698112/1398309957740531843/schematicreal.png?ex=6884e521&is=688393a1&hm=000c58390870b21b4bdb518f93fa0c63ca6454e26981e6a599400e7c67ab44c7
+![Headstone Image](arms.png)
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
