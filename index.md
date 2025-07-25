@@ -1,17 +1,11 @@
 # Robotic Arm 
 The Robotic arm is three jointed with 4 servos attached one for each different movment. There is one to control the claw, another two for moving the arm up and down, and finally one on the bottom to make it move left and right. Some of the biggest takeaways from completing the project is how engineering can really create beautiful masterpieces that could do anything. 
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Neil S | Ridge High School | Electrical Engineering/Mechanical Engineering | Incoming Freshman
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
   
